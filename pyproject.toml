@@ -5,7 +5,7 @@ description = ""
 authors = ["sigma1326 <taleb.zarhesh@gmail.com>" ,"soran-ghaderi <soran.gdr.cs@gmail.com>"]
 
 [tool.poetry.dependencies]
-python = ">=3.10,<3.11"
+python = ">=3.9"
 networkx = "^2.6.3"
 tabulate = "^0.8.9"
 pandas = "^1.4.1"
